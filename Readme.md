@@ -12,7 +12,7 @@ Este es un proyecto de Node.js que utiliza Express, MSSQL, y otras tecnologías.
 1. Clona este repositorio en tu máquina local:
 
 ```sh
-git clone <URL del repositorio>
+git clone https://github.com/EdHuayllasco/UpdateByEmail
 ```
 2. Navega al directorio del proyecto:
 ```sh   
